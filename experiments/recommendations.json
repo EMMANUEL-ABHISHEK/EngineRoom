@@ -1,0 +1,22 @@
+[
+    {
+        "post_id": "post_001",
+        "predicted_sentiment_class": 1,
+        "recommendation": "Content is okay, consider minor adjustments"
+    },
+    {
+        "post_id": "post_002",
+        "predicted_sentiment_class": 2,
+        "recommendation": "High engagement predicted: Post immediately"
+    },
+    {
+        "post_id": "post_003",
+        "predicted_sentiment_class": 2,
+        "recommendation": "High engagement predicted: Post immediately"
+    },
+    {
+        "post_id": "post_004",
+        "predicted_sentiment_class": 2,
+        "recommendation": "High engagement predicted: Post immediately"
+    }
+]

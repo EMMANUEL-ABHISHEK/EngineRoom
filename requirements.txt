@@ -1,0 +1,9 @@
+# Core data processing and synthetic data generation
+pandas>=1.3.0          # For data manipulation and storage (CSV, Parquet)
+Faker>=9.0.0           # For generating synthetic social media data
+
+# DuckDB for efficient local database storage and queries
+duckdb>=0.8.0          # For creating and querying the DuckDB database
+
+# Parquet support for Pandas (requires pyarrow)
+pyarrow>=4.0.0         # Enables Pandas to read/write Parquet files using Zstandard compression
